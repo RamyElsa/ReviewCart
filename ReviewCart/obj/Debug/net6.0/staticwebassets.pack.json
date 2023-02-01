@@ -1,0 +1,313 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ReviewCart.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ReviewCart.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\ProductImage\\22e71c42-7e98-4d85-827f-1435eda9b12e-applle.jpeg",
+      "PackagePath": "staticwebassets\\ProductImage\\22e71c42-7e98-4d85-827f-1435eda9b12e-applle.jpeg"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\ProductImage\\446c9543-bb1e-4817-aa4a-662905d77195-yellow tulipa.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\446c9543-bb1e-4817-aa4a-662905d77195-yellow tulipa.jpg"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\ProductImage\\4c203921-f3c9-4684-ab33-15bc0030b4a4-10.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\4c203921-f3c9-4684-ab33-15bc0030b4a4-10.jpg"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\ProductImage\\51f030a1-2fcb-4eca-a52b-cf1a1b283320-6.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\51f030a1-2fcb-4eca-a52b-cf1a1b283320-6.jpg"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\ProductImage\\5c717795-c339-4302-b43f-778604ee381d-Kiwi.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\5c717795-c339-4302-b43f-778604ee381d-Kiwi.jpg"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\ProductImage\\8e87c056-bc7c-444c-b9cb-a4924b874179-Kiwi.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\8e87c056-bc7c-444c-b9cb-a4924b874179-Kiwi.jpg"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\ProductImage\\98676bb4-eef4-4f86-af3d-6eab2bae3120-applle.jpeg",
+      "PackagePath": "staticwebassets\\ProductImage\\98676bb4-eef4-4f86-af3d-6eab2bae3120-applle.jpeg"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\ProductImage\\9e37123f-85d4-4017-b19d-b0390ad5b2d5-black shirt.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\9e37123f-85d4-4017-b19d-b0390ad5b2d5-black shirt.jpg"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\ProductImage\\c6b52f3e-0f4c-46ee-aad0-7d70c5c628ee-6877f536-7580-495d-8a05-c741eeba0690_pink shirt.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\c6b52f3e-0f4c-46ee-aad0-7d70c5c628ee-6877f536-7580-495d-8a05-c741eeba0690_pink shirt.jpg"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\ProductImage\\fed705f5-b769-4f45-bec7-7de7faebb0e3-yellow tulipa.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\fed705f5-b769-4f45-bec7-7de7faebb0e3-yellow tulipa.jpg"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\css\\Sketchy.css",
+      "PackagePath": "staticwebassets\\css\\Sketchy.css"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\js\\Product.js",
+      "PackagePath": "staticwebassets\\js\\Product.js"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\V.StudioCode\\ReviewCart\\ReviewCart\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ReviewCart.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ReviewCart.props",
+      "PackagePath": "build\\ReviewCart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ReviewCart.props",
+      "PackagePath": "buildMultiTargeting\\ReviewCart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ReviewCart.props",
+      "PackagePath": "buildTransitive\\ReviewCart.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

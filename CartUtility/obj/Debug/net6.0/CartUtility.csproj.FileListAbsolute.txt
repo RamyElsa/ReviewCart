@@ -1,0 +1,17 @@
+D:\V.StudioCode\ReviewCart\CartUtility\bin\Debug\net6.0\CartUtility.deps.json
+D:\V.StudioCode\ReviewCart\CartUtility\bin\Debug\net6.0\CartUtility.dll
+D:\V.StudioCode\ReviewCart\CartUtility\bin\Debug\net6.0\CartUtility.pdb
+D:\V.StudioCode\ReviewCart\CartUtility\obj\Debug\net6.0\CartUtility.csproj.AssemblyReference.cache
+D:\V.StudioCode\ReviewCart\CartUtility\obj\Debug\net6.0\CartUtility.GeneratedMSBuildEditorConfig.editorconfig
+D:\V.StudioCode\ReviewCart\CartUtility\obj\Debug\net6.0\CartUtility.AssemblyInfoInputs.cache
+D:\V.StudioCode\ReviewCart\CartUtility\obj\Debug\net6.0\CartUtility.AssemblyInfo.cs
+D:\V.StudioCode\ReviewCart\CartUtility\obj\Debug\net6.0\CartUtility.csproj.CoreCompileInputs.cache
+D:\V.StudioCode\ReviewCart\CartUtility\obj\Debug\net6.0\CartUtility.dll
+D:\V.StudioCode\ReviewCart\CartUtility\obj\Debug\net6.0\refint\CartUtility.dll
+D:\V.StudioCode\ReviewCart\CartUtility\obj\Debug\net6.0\CartUtility.pdb
+D:\V.StudioCode\ReviewCart\CartUtility\obj\Debug\net6.0\ref\CartUtility.dll
+D:\V.StudioCode\ReviewCart\CartUtility\bin\Debug\net6.0\CartDataAccess.dll
+D:\V.StudioCode\ReviewCart\CartUtility\bin\Debug\net6.0\CartModels.dll
+D:\V.StudioCode\ReviewCart\CartUtility\bin\Debug\net6.0\CartDataAccess.pdb
+D:\V.StudioCode\ReviewCart\CartUtility\bin\Debug\net6.0\CartModels.pdb
+D:\V.StudioCode\ReviewCart\CartUtility\obj\Debug\net6.0\CartUtility.csproj.CopyComplete
